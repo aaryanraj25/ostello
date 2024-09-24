@@ -26,7 +26,7 @@ class ReferralWidget extends StatelessWidget {
                     'Refer & Earn',
                     style: TextStyle(
                       fontFamily: 'Avenir',
-                      fontSize: 14,
+                      fontSize: 12,
                       fontWeight: FontWeight.w500,
                       color: Colors.black,
                     ),
@@ -36,7 +36,7 @@ class ReferralWidget extends StatelessWidget {
                     'Cashback & Rewards',
                     style: TextStyle(
                       fontFamily: 'Avenir',
-                      fontSize: 18,
+                      fontSize: 16,
                       fontWeight: FontWeight.w800,
                       color: Colors.black,
                     ),
@@ -46,7 +46,7 @@ class ReferralWidget extends StatelessWidget {
                     'Invite Your Friends & Get Up to ₹500 After Registration',
                     style: TextStyle(
                       fontFamily: 'Avenir',
-                      fontSize: 12,
+                      fontSize: 10,
                       fontWeight: FontWeight.w400,
                       color: Colors.black,
                     ),
